@@ -1,12 +1,12 @@
 
 # Recycle Bin Sorter Based on AI - Web App
 
-This project is a web application designed to help users sort recyclable items using an AI model. By uploading images of waste items, the AI model will classify them into the appropriate recycling categories.
+This project is a web application designed to help users sort recyclable items using an AI model. By scanning images of waste items, the AI model will classify them into the appropriate recycling categories.
 
 ## Features
 
 - **AI-Powered Classification**: Uses AI to identify and sort items into recyclable categories.
-- **Web-Based Interface**: Easy-to-use interface for uploading and viewing results.
+- **Web-Based Interface**: Easy-to-use interface for scanning and viewing results.
 - **Categorized Storage**: Organizes sorted items into folders for each recycling category.
 
 ## Project Structure
@@ -55,9 +55,10 @@ This project is a web application designed to help users sort recyclable items u
 
 ## Usage
 
-- Upload an image of the waste item through the web interface.
+- scane an object of the waste item through the web interface.
 - The AI model will classify the item and show the result.
 - The item will be stored in its respective category folder in the `folders/` directory.
+- Then image of item deleted automatically
 
 ## Contribution
 
